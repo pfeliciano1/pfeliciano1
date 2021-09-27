@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfeliciano1
-- 👀 I’m interested in Mathematics, Data Analytics and Education.
-- 🌱 I’m currently working Data Science topics such as: VBA Scripting, Python, MySQL, Machine Learning, JavaScript, etc.
+- 👀 I’m interested in Data Analytics and Mathematics.
+- 🌱 I’m currently working Data Science topics such as: VBA Scripting, Python, MySQL, Machine Learning, JavaScript, Tableau, etc.
 - 💞️ I’m looking to collaborate on projects that will help me learn and grow as a Data Analyst/Scientist.
 - 📫 How to reach me paul.feliciano.abreu@gmail.com
 
